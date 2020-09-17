@@ -117,3 +117,4 @@ G:\visual studio\CTS Practice Project\BookRepositoryDemoMVC_Client\obj\Debug\net
 G:\visual studio\CTS Practice Project\BookRepositoryDemoMVC_Client\obj\Debug\netcoreapp3.1\Razor\Views\SellRecord\Create.cshtml.g.cs
 G:\visual studio\CTS Practice Project\BookRepositoryDemoMVC_Client\obj\Debug\netcoreapp3.1\Razor\Views\SellRecord\Edit.cshtml.g.cs
 G:\visual studio\CTS Practice Project\BookRepositoryDemoMVC_Client\obj\Debug\netcoreapp3.1\Razor\Views\Sell\Index.cshtml.g.cs
+G:\visual studio\CTS Practice Project\BookRepositoryDemoMVC_Client\obj\Debug\netcoreapp3.1\Razor\Views\Sell\Error.cshtml.g.cs

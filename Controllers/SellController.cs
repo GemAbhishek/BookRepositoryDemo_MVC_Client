@@ -36,7 +36,11 @@ namespace BookRepositoryDemoMVC_Client.Controllers
             HttpResponseMessage response = client.PutAsync(client.BaseAddress + "api/Sell/" + book.Id + "/" + book.SellQty, null).Result;
             if (response.IsSuccessStatusCode)
                 return RedirectToAction("GetDetails", "SellRecord");
-            return BadRequest();
+            return RedirectToAction("Error");
+        }
+        public ActionResult Error()
+        {
+            return View();
         }
     }
 }
